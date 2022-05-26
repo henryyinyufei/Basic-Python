@@ -6,9 +6,14 @@ An elementary introduction to computing science and computer programming, suitab
 
 ## Topics
 
--Algorithms, flowcharts, pseudocode
--Procedural programming in Python
--Data types and control structures
--Fundamental algorithms, including searching, sorting, basics of recursion
--Computability and complexity, introduction
--Basics of binary encoding
+*Algorithms, flowcharts, pseudocode
+
+*Procedural programming in Python
+
+*Data types and control structures
+
+*Fundamental algorithms, including searching, sorting, basics of recursion
+
+*Computability and complexity, introduction
+
+*Basics of binary encoding
