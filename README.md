@@ -6,21 +6,14 @@ An elementary introduction to computing science and computer programming, suitab
 
 ## Topics
 
-\begin{itemize}
-  \item Algorithms, flowcharts, pseudocode
-  \item The second item of the list.
-  \item An item with an \textsc{equation}:
-    \[ \sum_{n=1}^{\infty} \frac{1}{n^2}=\frac{\pi^2}{6}\]
-\end{itemize}
+* Algorithms, flowcharts, pseudocode
 
-*Algorithms, flowcharts, pseudocode
+* Procedural programming in Python
 
-*Procedural programming in Python
+* Data types and control structures
 
-*Data types and control structures
+* Fundamental algorithms, including searching, sorting, basics of recursion
 
-*Fundamental algorithms, including searching, sorting, basics of recursion
+* Computability and complexity, introduction
 
-*Computability and complexity, introduction
-
-*Basics of binary encoding
+* Basics of binary encoding
